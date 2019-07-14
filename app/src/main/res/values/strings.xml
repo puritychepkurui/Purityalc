@@ -1,0 +1,12 @@
+<resources>
+    <string name="app_name">Purityalc</string>
+    <!-- Category name for phrases [CHAR LIMIT=20] -->
+    <string name="category_main">ALC 4 Phase 1</string>
+
+    <!-- Category name for the vocabulary words for colors [CHAR LIMIT=20] -->
+    <string name="category_andela">About ALC</string>
+
+    <!-- Category name for the vocabulary words for numbers [CHAR LIMIT=20] -->
+    <string name="category_profile">My Profile</string>
+    <string name="notification_error_ssl_invalid">notification error ssl invalid</string>
+</resources>
